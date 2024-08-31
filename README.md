@@ -1,3 +1,4 @@
+
 ### Olá Sou Luiz Gustavo 🖐🏿🖐🏿
 
 [![BLog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-81b050213/)
@@ -8,7 +9,7 @@
 
 ![Luiz Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizGustavoCSantos&show_icons=true&theme=radical)
 
-### Minhas Linguagens de programação / My Programming Languages
+### Minhas Linguages de programação / My Programming Languages 🖥️
 
 <div style="display: inline_nlock"><br/>
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
