@@ -9,7 +9,7 @@
 
 ![Luiz Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizGustavoCSantos&show_icons=true&theme=radical)
 
-### Minhas Linguages de programação / My Programming Languages 🖥️
+### Minhas Linguagens de programação / My Programming Languages 🖥️
 
 <div style="display: inline_nlock"><br/>
 <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
