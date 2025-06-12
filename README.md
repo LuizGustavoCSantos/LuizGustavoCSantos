@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">👨🏿‍💻  Estudante de Ciência da Computação<br>🔧 Desenvolvedor de Software</h4>
+<h3 align="left">👨🏿‍💻  Estudante de Ciência da Computação<br>🔧 Desenvolvedor de Software</h3>
 
 ###
 
