@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -42,7 +42,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/luiz-gustavo-concei%C3%A7%C3%A3o-santos-81b050213/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
@@ -62,8 +62,8 @@
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizGustavoCSantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=%20My%20Programming%20Languages%20%F0%9F%96%A5%EF%B8%8F" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizGustavoCSantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=%20My%20Programming%20Languages%20%F0%9F%96%A5%EF%B8%8F" height="150" alt="languages graph"  />
 </div>
 
 ###
