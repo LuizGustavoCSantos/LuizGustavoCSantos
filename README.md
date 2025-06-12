@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">💻Linguagens:</h3>
+<h3 align="center">💻Linguagens:</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">Conecte-se Comigo :</h3>
+<h3 align="center">🌐 Conecte-se Comigo :</h3>
 
 ###
 
